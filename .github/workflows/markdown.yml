@@ -9,6 +9,7 @@ jobs:
   markdown-test-and-update:
     name: Markdown files test and update
     runs-on: ubuntu-latest
+    environment: production
     steps:
 
       - name: Clone sources
