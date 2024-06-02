@@ -19,6 +19,7 @@ jobs:
   create-release:
     name: Create release
     runs-on: ubuntu-latest
+    environment: production
     permissions:
       contents: write
     env:
