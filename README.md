@@ -37,3 +37,5 @@ a [pull request on GitHub](https://docs.github.com/en/pull-requests/collaboratin
 ## License
 
 [GNU General Public License, version 3 (GPLv3)](https://github.com/julienloizelet/magento2-category-code/blob/master/LICENSE)
+
+
