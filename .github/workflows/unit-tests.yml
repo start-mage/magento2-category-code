@@ -28,6 +28,7 @@ jobs:
 
     name: Unit and integration tests
     runs-on: ubuntu-latest
+    environment: production
     env:
       EXTENSION_PACKAGE_NAME: "okaeli/magento2-category-code"
       EXTENSION_PATH: "category-code"
