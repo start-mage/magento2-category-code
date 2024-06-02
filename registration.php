@@ -27,3 +27,5 @@
 use \Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Okaeli_CategoryCode', __DIR__);
+
+
